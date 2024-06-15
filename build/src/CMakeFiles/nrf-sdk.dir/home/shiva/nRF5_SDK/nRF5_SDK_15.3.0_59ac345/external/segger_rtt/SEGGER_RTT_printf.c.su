@@ -1,0 +1,3 @@
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/segger_rtt/SEGGER_RTT_printf.c:147:13:_PrintUnsigned	40	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/segger_rtt/SEGGER_RTT_printf.c:332:5:SEGGER_RTT_vprintf	144	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/segger_rtt/SEGGER_RTT_printf.c:506:5:SEGGER_RTT_printf	12	static

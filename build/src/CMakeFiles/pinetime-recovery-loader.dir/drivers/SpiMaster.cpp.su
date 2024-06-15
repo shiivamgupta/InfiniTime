@@ -1,0 +1,13 @@
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:9:1:Pinetime::Drivers::SpiMaster::SpiMaster(Pinetime::Drivers::SpiMaster::SpiModule, const Pinetime::Drivers::SpiMaster::Parameters&)	0	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:12:6:bool Pinetime::Drivers::SpiMaster::Init()	8	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:97:6:void Pinetime::Drivers::SpiMaster::SetupWorkaroundForFtpan58(NRF_SPIM_Type*, uint32_t, uint32_t)	16	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:114:6:void Pinetime::Drivers::SpiMaster::DisableWorkaroundForFtpan58(NRF_SPIM_Type*, uint32_t, uint32_t)	12	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:147:6:void Pinetime::Drivers::SpiMaster::OnStartedEvent()	0	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:150:6:void Pinetime::Drivers::SpiMaster::PrepareTx(uint32_t, size_t)	0	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:125:6:void Pinetime::Drivers::SpiMaster::OnEndEvent()	24	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:160:6:void Pinetime::Drivers::SpiMaster::PrepareRx(uint32_t, size_t)	8	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:170:6:bool Pinetime::Drivers::SpiMaster::Write(uint8_t, const uint8_t*, size_t, const std::function<void()>&)	24	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:212:6:bool Pinetime::Drivers::SpiMaster::Read(uint8_t, uint8_t*, size_t, uint8_t*, size_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:243:6:void Pinetime::Drivers::SpiMaster::Sleep()	0	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:254:6:void Pinetime::Drivers::SpiMaster::Wakeup()	0	static
+/home/shiva/shiv_infinitime/src/drivers/SpiMaster.cpp:259:6:bool Pinetime::Drivers::SpiMaster::WriteCmdAndBuffer(uint8_t, const uint8_t*, size_t, const uint8_t*, size_t)	24	static

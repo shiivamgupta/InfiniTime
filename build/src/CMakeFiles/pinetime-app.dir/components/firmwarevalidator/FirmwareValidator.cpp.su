@@ -1,0 +1,3 @@
+/home/shiva/shiv_infinitime/src/components/firmwarevalidator/FirmwareValidator.cpp:8:6:bool Pinetime::Controllers::FirmwareValidator::IsValidated() const	0	static
+/home/shiva/shiv_infinitime/src/components/firmwarevalidator/FirmwareValidator.cpp:13:6:void Pinetime::Controllers::FirmwareValidator::Validate()	0	static
+/home/shiva/shiv_infinitime/src/components/firmwarevalidator/FirmwareValidator.cpp:18:6:void Pinetime::Controllers::FirmwareValidator::Reset()	0	static

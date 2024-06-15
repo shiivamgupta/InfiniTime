@@ -1,0 +1,10 @@
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:14:22:virtual void Pinetime::Applications::Screens::Screen::Refresh()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:29:22:virtual bool Pinetime::Applications::Screens::Screen::OnButtonPushed()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:35:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(Pinetime::Applications::TouchEvents)	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:39:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(uint16_t, uint16_t)	0	static
+/home/shiva/shiv_infinitime/src/libs/lvgl/src/lv_core/lv_disp.h:158:26:lv_obj_t* lv_scr_act()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingDisplay.cpp:61:1:Pinetime::Applications::Screens::SettingDisplay::~SettingDisplay()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingDisplay.cpp:61:1:virtual Pinetime::Applications::Screens::SettingDisplay::~SettingDisplay()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingDisplay.cpp:20:1:Pinetime::Applications::Screens::SettingDisplay::SettingDisplay(Pinetime::Applications::DisplayApp*, Pinetime::Controllers::Settings&)	64	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingDisplay.cpp:66:6:void Pinetime::Applications::Screens::SettingDisplay::UpdateSelected(lv_obj_t*, lv_event_t)	32	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingDisplay.cpp:12:8:void {anonymous}::event_handler(lv_obj_t*, lv_event_t)	0	static

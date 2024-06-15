@@ -1,0 +1,28 @@
+/home/shiva/shiv_infinitime/src/logging/DummyLogger.h:8:12:virtual void Pinetime::Logging::DummyLogger::Init()	0	static
+/home/shiva/shiv_infinitime/src/logging/DummyLogger.h:11:12:virtual void Pinetime::Logging::DummyLogger::Resume()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:185:6:void DebounceTimerChargeCallback(TimerHandle_t)	16	static
+/home/shiva/shiv_infinitime/src/main.cpp:190:6:void DebounceTimerCallback(TimerHandle_t)	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:301:6:void calibrate_lf_clock_rc(nrf_drv_clock_evt_type_t)	0	static
+/home/shiva/shiv_infinitime/src/displayapp/DisplayApp.h:50:11:Pinetime::Applications::DisplayApp::~DisplayApp()	8	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:242:5:std::_Function_base::~_Function_base()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:151:6:void vApplicationMallocFailedHook()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:155:6:void vApplicationStackOverflowHook(TaskHandle_t, char*)	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:168:6:void nrfx_gpiote_evt_handler(nrfx_gpiote_pin_t, nrf_gpiote_polarity_t)	32	static
+/home/shiva/shiv_infinitime/src/main.cpp:194:6:void SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:216:6:void RADIO_IRQHandler()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:220:6:void RNG_IRQHandler()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:224:6:void RTC0_IRQHandler()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:228:6:void WDT_IRQHandler()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:232:6:void npl_freertos_hw_set_isr(int, void (*)())	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:248:10:uint32_t npl_freertos_hw_enter_critical()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:254:6:void npl_freertos_hw_exit_critical(uint32_t)	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:262:24:ble_npl_eventq* nimble_port_get_dflt_eventq()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:266:6:void nimble_port_run()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:274:6:void BleHost(void*)	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:278:6:void nimble_port_init()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:295:6:void nimble_port_ll_task_func(void*)	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:307:6:void enable_dcdc_regulator()	0	static
+/home/shiva/shiv_infinitime/src/main.cpp:311:5:int main()	24	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/basic_string.h:237:7:void std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_M_dispose() [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]	0	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.h:53:11:Pinetime::System::SystemTask::~SystemTask()	8	static
+/home/shiva/shiv_infinitime/src/main.cpp:367:1:cpp)	120	static

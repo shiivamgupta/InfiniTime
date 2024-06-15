@@ -1,0 +1,14 @@
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:55:6:void nimble_on_reset(int)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:25:1:Pinetime::Controllers::NimbleController::NimbleController(Pinetime::System::SystemTask&, Pinetime::Controllers::Ble&, Pinetime::Controllers::DateTime&, Pinetime::Controllers::NotificationManager&, Pinetime::Controllers::Battery&, Pinetime::Drivers::SpiNorFlash&, Pinetime::Controllers::HeartRateController&, Pinetime::Controllers::MotionController&, Pinetime::Controllers::FS&)	40	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:139:6:void Pinetime::Controllers::NimbleController::StartAdvertising()	224	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:59:6:void nimble_on_sync()	8	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:387:6:void Pinetime::Controllers::NimbleController::StartDiscovery()	0	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:393:10:uint16_t Pinetime::Controllers::NimbleController::connHandle()	0	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:397:6:void Pinetime::Controllers::NimbleController::NotifyBatteryLevel(uint8_t)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:403:6:void Pinetime::Controllers::NimbleController::EnableRadio()	8	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:410:6:void Pinetime::Controllers::NimbleController::DisableRadio()	8	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:420:6:void Pinetime::Controllers::NimbleController::PersistBond(ble_gap_conn_desc&)	952	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:181:5:int Pinetime::Controllers::NimbleController::OnGAPEvent(ble_gap_event*)	64	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:70:5:int GAPEventCallback(ble_gap_event*, void*)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:474:6:void Pinetime::Controllers::NimbleController::RestoreBond()	272	static
+/home/shiva/shiv_infinitime/src/components/ble/NimbleController.cpp:75:6:void Pinetime::Controllers::NimbleController::Init()	24	static

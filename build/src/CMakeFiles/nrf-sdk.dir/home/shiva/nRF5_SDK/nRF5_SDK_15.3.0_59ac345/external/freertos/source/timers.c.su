@@ -1,0 +1,16 @@
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/timers.c:836:13:prvSwitchTimerLists	48	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/timers.c:503:13:prvTimerTask	80	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1264:12:xTimerCreateTimerTask	32	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:228:16:xTimerCreate	48	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1265:12:xTimerGenericCommand	32	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:452:14:xTimerGetTimerDaemonTaskHandle	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1243:12:xTimerGetPeriod	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1258:12:xTimerGetExpiryTime	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1232:14:pcTimerGetName	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:444:12:xTimerIsTimerActive	16	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:386:7:pvTimerGetTimerID	16	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:407:6:vTimerSetTimerID	16	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1187:12:xTimerPendFunctionCallFromISR	32	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1221:12:xTimerPendFunctionCall	32	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1269:14:uxTimerGetTimerNumber	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/timers.h:1268:7:vTimerSetTimerNumber	0	static

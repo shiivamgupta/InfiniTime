@@ -1,0 +1,33 @@
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:268:7:), _Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Res = void; _Functor = Pinetime::Drivers::St7789::WriteCommand(const uint8_t*, size_t)::<lambda()>; _ArgTypes = {}]	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:268:7:), _Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Res = void; _Functor = Pinetime::Drivers::St7789::WriteData(const uint8_t*, size_t)::<lambda()>; _ArgTypes = {}]	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:289:7:) [with _Res = void; _Functor = Pinetime::Drivers::St7789::WriteCommand(const uint8_t*, size_t)::<lambda()>; _ArgTypes = {}]	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:289:7:) [with _Res = void; _Functor = Pinetime::Drivers::St7789::WriteData(const uint8_t*, size_t)::<lambda()>; _ArgTypes = {}]	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:242:5:std::_Function_base::~_Function_base()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:9:1:Pinetime::Drivers::St7789::St7789(Pinetime::Drivers::Spi&, uint8_t, uint8_t)	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:52:6:void Pinetime::Drivers::St7789::WriteSpi(const uint8_t*, size_t, const std::function<void()>&)	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:36:6:void Pinetime::Drivers::St7789::WriteData(const uint8_t*, size_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:32:6:void Pinetime::Drivers::St7789::WriteData(uint8_t)	16	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:46:6:void Pinetime::Drivers::St7789::WriteCommand(const uint8_t*, size_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:42:6:void Pinetime::Drivers::St7789::WriteCommand(uint8_t)	16	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:66:6:void Pinetime::Drivers::St7789::SleepOut()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:79:6:void Pinetime::Drivers::St7789::EnsureSleepOutPostDelay()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:56:6:void Pinetime::Drivers::St7789::SoftwareReset()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:88:6:void Pinetime::Drivers::St7789::SleepIn()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:100:6:void Pinetime::Drivers::St7789::ColMod()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:105:6:void Pinetime::Drivers::St7789::MemoryDataAccessControl()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:121:6:void Pinetime::Drivers::St7789::ColumnAddressSet()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:129:6:void Pinetime::Drivers::St7789::RowAddressSet()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:137:6:void Pinetime::Drivers::St7789::DisplayInversionOn()	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:141:6:void Pinetime::Drivers::St7789::NormalModeOn()	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:145:6:void Pinetime::Drivers::St7789::DisplayOn()	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:149:6:void Pinetime::Drivers::St7789::SetAddrWindow(uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:163:6:void Pinetime::Drivers::St7789::WriteToRam(const uint8_t*, size_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:168:6:void Pinetime::Drivers::St7789::SetVdv()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:175:6:void Pinetime::Drivers::St7789::DisplayOff()	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:179:6:void Pinetime::Drivers::St7789::VerticalScrollStartAddress(uint16_t)	16	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:186:6:void Pinetime::Drivers::St7789::Uninit()	0	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:189:6:void Pinetime::Drivers::St7789::DrawBuffer(uint16_t, uint16_t, uint16_t, uint16_t, const uint8_t*, size_t)	32	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:194:6:void Pinetime::Drivers::St7789::HardwareReset()	16	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:12:6:void Pinetime::Drivers::St7789::Init()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:205:6:void Pinetime::Drivers::St7789::Sleep()	8	static
+/home/shiva/shiv_infinitime/src/drivers/St7789.cpp:211:6:void Pinetime::Drivers::St7789::Wakeup()	8	static

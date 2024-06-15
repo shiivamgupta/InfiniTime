@@ -1,0 +1,2 @@
+/opt/gcc-arm-none-eabi-10.3-2021.10//bin/arm-none-eabi-ar qc libinfinitime_fonts.a CMakeFiles/infinitime_fonts.dir/jetbrains_mono_42.c.o CMakeFiles/infinitime_fonts.dir/jetbrains_mono_76.c.o CMakeFiles/infinitime_fonts.dir/jetbrains_mono_bold_20.c.o CMakeFiles/infinitime_fonts.dir/jetbrains_mono_extrabold_compressed.c.o CMakeFiles/infinitime_fonts.dir/lv_font_sys_48.c.o CMakeFiles/infinitime_fonts.dir/open_sans_light.c.o CMakeFiles/infinitime_fonts.dir/fontawesome_weathericons.c.o
+/opt/gcc-arm-none-eabi-10.3-2021.10//bin/arm-none-eabi-ranlib libinfinitime_fonts.a

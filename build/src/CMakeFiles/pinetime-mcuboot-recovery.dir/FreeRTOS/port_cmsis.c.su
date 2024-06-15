@@ -1,0 +1,8 @@
+/home/shiva/shiv_infinitime/src/FreeRTOS/port_cmsis.c:150:13:prvTaskExitError	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/portable.h:103:15:pxPortInitialiseStack	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/portable.h:140:12:xPortStartScheduler	8	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/portable.h:147:6:vPortEndScheduler	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/portmacro_cmsis.h:105:13:vPortEnterCritical	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/portmacro_cmsis.h:106:13:vPortExitCritical	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/portmacro_cmsis.h:107:17:ulSetInterruptMaskFromISR	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/portmacro_cmsis.h:108:13:vClearInterruptMaskFromISR	0	static

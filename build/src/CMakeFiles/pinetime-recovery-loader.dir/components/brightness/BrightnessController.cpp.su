@@ -1,0 +1,8 @@
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:14:6:void Pinetime::Controllers::BrightnessController::Set(Pinetime::Controllers::BrightnessController::Levels)	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:7:6:void Pinetime::Controllers::BrightnessController::Init()	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:41:6:void Pinetime::Controllers::BrightnessController::Lower()	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:57:6:void Pinetime::Controllers::BrightnessController::Higher()	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:73:30:Pinetime::Controllers::BrightnessController::Levels Pinetime::Controllers::BrightnessController::Level() const	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:77:6:void Pinetime::Controllers::BrightnessController::Step()	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:93:13:const char* Pinetime::Controllers::BrightnessController::GetIcon()	0	static
+/home/shiva/shiv_infinitime/src/components/brightness/BrightnessController.cpp:105:13:const char* Pinetime::Controllers::BrightnessController::ToString()	0	static

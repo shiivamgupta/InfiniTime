@@ -1,0 +1,5 @@
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/list.h:345:6:vListInitialise	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/list.h:356:6:vListInitialiseItem	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/list.h:390:6:vListInsertEnd	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/list.h:369:6:vListInsert	8	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/freertos/source/include/list.h:405:13:uxListRemove	0	static

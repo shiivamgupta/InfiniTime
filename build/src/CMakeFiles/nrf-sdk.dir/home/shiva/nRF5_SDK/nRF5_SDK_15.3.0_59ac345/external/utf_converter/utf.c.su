@@ -1,0 +1,8 @@
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:12:8:utf8EncodeRune	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:78:13:utf8DecodeRune	12	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:178:8:utf16EncodeRune	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:204:17:utf16DecodeRune	4	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:246:8:utf8RuneCount	24	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:272:8:utf8UTF16Count	32	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:299:8:utf16RuneCount	0	static
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/external/utf_converter/utf.c:325:8:utf16UTF8Count	32	static

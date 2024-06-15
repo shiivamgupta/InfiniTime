@@ -1,0 +1,5 @@
+/home/shiva/shiv_infinitime/src/components/heartrate/HeartRateController.cpp:7:6:void Pinetime::Controllers::HeartRateController::Update(Pinetime::Controllers::HeartRateController::States, uint8_t)	0	static
+/home/shiva/shiv_infinitime/src/components/heartrate/HeartRateController.cpp:15:6:void Pinetime::Controllers::HeartRateController::Start()	0	static
+/home/shiva/shiv_infinitime/src/components/heartrate/HeartRateController.cpp:22:6:void Pinetime::Controllers::HeartRateController::Stop()	0	static
+/home/shiva/shiv_infinitime/src/components/heartrate/HeartRateController.cpp:29:6:void Pinetime::Controllers::HeartRateController::SetHeartRateTask(Pinetime::Applications::HeartRateTask*)	0	static
+/home/shiva/shiv_infinitime/src/components/heartrate/HeartRateController.cpp:33:6:void Pinetime::Controllers::HeartRateController::SetService(Pinetime::Controllers::HeartRateService*)	0	static

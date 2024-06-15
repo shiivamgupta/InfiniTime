@@ -1,0 +1,11 @@
+/home/shiva/shiv_infinitime/src/components/settings/Settings.h:252:12:bool Pinetime::Controllers::Settings::isWakeUpModeOn(Pinetime::Controllers::Settings::WakeUpMode) const	0	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:35:1:Pinetime::System::SystemTask::SystemTask(Pinetime::Drivers::SpiMaster&, Pinetime::Drivers::SpiNorFlash&, Pinetime::Drivers::TwiMaster&, Pinetime::Drivers::Cst816S&, Pinetime::Controllers::Battery&, Pinetime::Controllers::Ble&, Pinetime::Controllers::DateTime&, Pinetime::Controllers::AlarmController&, Pinetime::Drivers::Watchdog&, Pinetime::Controllers::NotificationManager&, Pinetime::Drivers::Hrs3300&, Pinetime::Controllers::MotionController&, Pinetime::Drivers::Bma421&, Pinetime::Controllers::Settings&, Pinetime::Controllers::HeartRateController&, Pinetime::Applications::DisplayApp&, Pinetime::Applications::HeartRateTask&, Pinetime::Controllers::FS&, Pinetime::Controllers::TouchHandler&, Pinetime::Controllers::ButtonHandler&)	48	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:86:6:void Pinetime::System::SystemTask::Start()	16	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:457:6:void Pinetime::System::SystemTask::HandleButtonAction(Pinetime::Controllers::ButtonActions)	16	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:507:6:void Pinetime::System::SystemTask::PushMessage(Pinetime::System::Messages)	24	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:30:6:void MeasureBatteryTimerCallback(TimerHandle_t)	8	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:489:6:void Pinetime::System::SystemTask::GoToRunning()	0	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:423:6:void Pinetime::System::SystemTask::UpdateMotion()	32	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:99:6:void Pinetime::System::SystemTask::Work()	72	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:93:6:static void Pinetime::System::SystemTask::Process(void*)	8	static
+/home/shiva/shiv_infinitime/src/systemtask/SystemTask.cpp:496:6:void Pinetime::System::SystemTask::OnTouchEvent()	8	static

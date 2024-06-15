@@ -1,0 +1,3 @@
+/home/shiva/shiv_infinitime/src/FreeRTOS/port.c:51:6:vPortStartFirstTask	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/port.c:81:6:SVC_Handler	0	static
+/home/shiva/shiv_infinitime/src/FreeRTOS/port.c:100:6:PendSV_Handler	0	static

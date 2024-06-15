@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/gcc_startup_nrf52.S
+startup_config.h
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/startup_config.h
+
+/home/shiva/nRF5_SDK/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/startup_config.h
+

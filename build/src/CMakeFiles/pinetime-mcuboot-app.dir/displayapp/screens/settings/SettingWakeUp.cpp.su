@@ -1,0 +1,11 @@
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:14:22:virtual void Pinetime::Applications::Screens::Screen::Refresh()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:29:22:virtual bool Pinetime::Applications::Screens::Screen::OnButtonPushed()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:35:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(Pinetime::Applications::TouchEvents)	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:39:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(uint16_t, uint16_t)	0	static
+/home/shiva/shiv_infinitime/src/libs/lvgl/src/lv_core/lv_disp.h:158:26:lv_obj_t* lv_scr_act()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingWakeUp.cpp:57:1:Pinetime::Applications::Screens::SettingWakeUp::~SettingWakeUp()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingWakeUp.cpp:57:1:virtual Pinetime::Applications::Screens::SettingWakeUp::~SettingWakeUp()	8	static
+/home/shiva/shiv_infinitime/src/components/settings/Settings.h:252:12:bool Pinetime::Controllers::Settings::isWakeUpModeOn(Pinetime::Controllers::Settings::WakeUpMode) const	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingWakeUp.cpp:22:1:Pinetime::Applications::Screens::SettingWakeUp::SettingWakeUp(Pinetime::Controllers::Settings&)	40	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingWakeUp.cpp:62:6:void Pinetime::Applications::Screens::SettingWakeUp::UpdateSelected(lv_obj_t*)	24	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingWakeUp.cpp:14:8:void {anonymous}::event_handler(lv_obj_t*, lv_event_t)	0	static

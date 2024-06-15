@@ -1,0 +1,7 @@
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:8:1:Pinetime::Applications::HeartRateTask::HeartRateTask(Pinetime::Drivers::Hrs3300&, Pinetime::Controllers::HeartRateController&)	8	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:12:6:void Pinetime::Applications::HeartRateTask::Start()	16	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:103:6:void Pinetime::Applications::HeartRateTask::PushMessage(Pinetime::Applications::HeartRateTask::Messages)	24	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:109:6:void Pinetime::Applications::HeartRateTask::StartMeasurement()	8	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:115:6:void Pinetime::Applications::HeartRateTask::StopMeasurement()	8	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:26:6:void Pinetime::Applications::HeartRateTask::Work()	48	static
+/home/shiva/shiv_infinitime/src/heartratetask/HeartRateTask.cpp:21:6:static void Pinetime::Applications::HeartRateTask::Process(void*)	8	static

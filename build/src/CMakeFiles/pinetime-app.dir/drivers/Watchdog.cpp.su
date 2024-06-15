@@ -1,0 +1,4 @@
+/home/shiva/shiv_infinitime/src/drivers/Watchdog.cpp:109:6:void Pinetime::Drivers::Watchdog::Setup(uint8_t, Pinetime::Drivers::Watchdog::SleepBehaviour, Pinetime::Drivers::Watchdog::HaltBehaviour)	8	static
+/home/shiva/shiv_infinitime/src/drivers/Watchdog.cpp:117:6:void Pinetime::Drivers::Watchdog::Start()	0	static
+/home/shiva/shiv_infinitime/src/drivers/Watchdog.cpp:122:6:void Pinetime::Drivers::Watchdog::Reload()	0	static
+/home/shiva/shiv_infinitime/src/drivers/Watchdog.cpp:128:13:const char* Pinetime::Drivers::ResetReasonToString(Pinetime::Drivers::Watchdog::ResetReason)	0	static

@@ -1,0 +1,23 @@
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:71:6:void Pinetime::Controllers::DfuService::Init()	8	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:110:5:int Pinetime::Controllers::DfuService::SendDfuRevision(os_mbuf*) const	8	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:317:1:Pinetime::Controllers::DfuService::NotificationManager::NotificationManager()	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:30:1:Pinetime::Controllers::DfuService::DfuService(Pinetime::System::SystemTask&, Pinetime::Controllers::Ble&, Pinetime::Drivers::SpiNorFlash&)	24	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:321:6:bool Pinetime::Controllers::DfuService::NotificationManager::AsyncSend(uint16_t, uint16_t, uint8_t*, size_t)	24	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:340:6:void Pinetime::Controllers::DfuService::NotificationManager::Send(uint16_t, uint16_t, const uint8_t*, size_t)	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:333:6:void Pinetime::Controllers::DfuService::NotificationManager::OnNotificationTimer()	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:20:6:void NotificationTimerCallback(TimerHandle_t)	8	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:346:6:void Pinetime::Controllers::DfuService::NotificationManager::Reset()	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:303:6:void Pinetime::Controllers::DfuService::Reset()	8	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:298:6:void Pinetime::Controllers::DfuService::OnTimeout()	0	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:25:6:void TimeoutTimerCallback(TimerHandle_t)	8	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:353:6:void Pinetime::Controllers::DfuService::DfuImage::Init(size_t, size_t, uint16_t)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:386:6:void Pinetime::Controllers::DfuService::DfuImage::WriteMagicNumber()	32	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:364:6:void Pinetime::Controllers::DfuService::DfuImage::Append(uint8_t*, size_t)	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:399:6:void Pinetime::Controllers::DfuService::DfuImage::Erase()	16	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:426:10:uint16_t Pinetime::Controllers::DfuService::DfuImage::ComputeCrc(const uint8_t*, uint32_t, const uint16_t*)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:405:6:bool Pinetime::Controllers::DfuService::DfuImage::Validate()	32	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:194:5:int Pinetime::Controllers::DfuService::ControlPointHandler(uint16_t, os_mbuf*)	40	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:440:6:bool Pinetime::Controllers::DfuService::DfuImage::IsComplete()	0	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:115:5:int Pinetime::Controllers::DfuService::WritePacketHandler(uint16_t, os_mbuf*)	40	dynamic
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:80:5:int Pinetime::Controllers::DfuService::OnServiceData(uint16_t, uint16_t, ble_gatt_access_ctxt*)	32	static
+/home/shiva/shiv_infinitime/src/components/ble/DfuService.cpp:15:5:int DfuServiceCallback(uint16_t, uint16_t, ble_gatt_access_ctxt*, void*)	4	static

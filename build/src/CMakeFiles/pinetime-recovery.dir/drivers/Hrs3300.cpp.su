@@ -1,0 +1,10 @@
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:26:1:Pinetime::Drivers::Hrs3300::Hrs3300(Pinetime::Drivers::TwiMaster&, uint8_t)	0	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:106:6:void Pinetime::Drivers::Hrs3300::WriteRegister(uint8_t, uint8_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:84:6:void Pinetime::Drivers::Hrs3300::SetGain(uint8_t)	8	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:112:9:uint8_t Pinetime::Drivers::Hrs3300::ReadRegister(uint8_t)	24	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:52:6:void Pinetime::Drivers::Hrs3300::Enable()	8	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:61:6:void Pinetime::Drivers::Hrs3300::Disable()	8	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:29:6:void Pinetime::Drivers::Hrs3300::Init()	16	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:70:10:uint32_t Pinetime::Drivers::Hrs3300::ReadHrs()	16	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:77:10:uint32_t Pinetime::Drivers::Hrs3300::ReadAls()	16	static
+/home/shiva/shiv_infinitime/src/drivers/Hrs3300.cpp:95:6:void Pinetime::Drivers::Hrs3300::SetDrive(uint8_t)	16	static

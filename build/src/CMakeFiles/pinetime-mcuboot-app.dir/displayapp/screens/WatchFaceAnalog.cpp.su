@@ -1,0 +1,12 @@
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:29:22:virtual bool Pinetime::Applications::Screens::Screen::OnButtonPushed()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:35:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(Pinetime::Applications::TouchEvents)	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:39:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(uint16_t, uint16_t)	0	static
+/home/shiva/shiv_infinitime/src/libs/lvgl/src/lv_core/lv_disp.h:158:26:lv_obj_t* lv_scr_act()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:162:1:Pinetime::Applications::Screens::WatchFaceAnalog::~WatchFaceAnalog()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:162:1:virtual Pinetime::Applications::Screens::WatchFaceAnalog::~WatchFaceAnalog()	8	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:37:14:lv_point_t {anonymous}::CoordinateRelocate(int16_t, int16_t)	32	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:174:6:void Pinetime::Applications::Screens::WatchFaceAnalog::UpdateClock()	32	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:216:6:void Pinetime::Applications::Screens::WatchFaceAnalog::SetBatteryIcon()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:221:6:virtual void Pinetime::Applications::Screens::WatchFaceAnalog::Refresh()	16	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:44:1:Pinetime::Applications::Screens::WatchFaceAnalog::WatchFaceAnalog(Pinetime::Controllers::DateTime&, const Pinetime::Controllers::Battery&, const Pinetime::Controllers::Ble&, Pinetime::Controllers::NotificationManager&, Pinetime::Controllers::Settings&)	48	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/WatchFaceAnalog.cpp:264:1:cpp)	8	static

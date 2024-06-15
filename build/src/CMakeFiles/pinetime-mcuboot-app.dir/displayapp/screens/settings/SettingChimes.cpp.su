@@ -1,0 +1,9 @@
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:14:22:virtual void Pinetime::Applications::Screens::Screen::Refresh()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:29:22:virtual bool Pinetime::Applications::Screens::Screen::OnButtonPushed()	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:35:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(Pinetime::Applications::TouchEvents)	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/Screen.h:39:22:virtual bool Pinetime::Applications::Screens::Screen::OnTouchEvent(uint16_t, uint16_t)	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:268:7:), _Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Res = void; _Functor = Pinetime::Applications::Screens::SettingChimes::SettingChimes(Pinetime::Controllers::Settings&)::<lambda(uint32_t)>; _ArgTypes = {long unsigned int}]	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:289:7:) [with _Res = void; _Functor = Pinetime::Applications::Screens::SettingChimes::SettingChimes(Pinetime::Controllers::Settings&)::<lambda(uint32_t)>; _ArgTypes = {long unsigned int}]	0	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingChimes.cpp:47:1:Pinetime::Applications::Screens::SettingChimes::SettingChimes(Pinetime::Controllers::Settings&)	120	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingChimes.cpp:61:1:Pinetime::Applications::Screens::SettingChimes::~SettingChimes()	16	static
+/home/shiva/shiv_infinitime/src/displayapp/screens/settings/SettingChimes.cpp:61:1:virtual Pinetime::Applications::Screens::SettingChimes::~SettingChimes()	8	static

@@ -1,0 +1,6 @@
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:268:7:), _Functor>::_M_manager(std::_Any_data&, const std::_Any_data&, std::_Manager_operation) [with _Res = void; _Functor = Pinetime::Controllers::ServiceDiscovery::DiscoverNextService(uint16_t)::<lambda(uint16_t)>; _ArgTypes = {short unsigned int}]	0	static
+/home/shiva/shiv_infinitime/src/components/ble/ServiceDiscovery.cpp:7:1:Pinetime::Controllers::ServiceDiscovery::ServiceDiscovery(std::array<Pinetime::Controllers::BleClient*, 2>&&)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/ServiceDiscovery.cpp:25:6:void Pinetime::Controllers::ServiceDiscovery::DiscoverNextService(uint16_t)	24	static
+/home/shiva/shiv_infinitime/src/components/ble/ServiceDiscovery.cpp:10:6:void Pinetime::Controllers::ServiceDiscovery::StartDiscovery(uint16_t)	0	static
+/home/shiva/shiv_infinitime/src/components/ble/ServiceDiscovery.cpp:16:6:void Pinetime::Controllers::ServiceDiscovery::OnServiceDiscovered(uint16_t)	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/10.3.1/bits/std_function.h:289:7:) [with _Res = void; _Functor = Pinetime::Controllers::ServiceDiscovery::DiscoverNextService(uint16_t)::<lambda(uint16_t)>; _ArgTypes = {short unsigned int}]	0	static

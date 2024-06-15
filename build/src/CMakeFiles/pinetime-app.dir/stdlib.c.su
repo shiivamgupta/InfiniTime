@@ -1,0 +1,4 @@
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h:108:7:malloc	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h:94:6:free	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h:90:7:calloc	0	static
+/opt/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h:145:7:realloc	0	static
