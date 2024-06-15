@@ -21,6 +21,7 @@
 #include <timers.h>
 #include <cstdint>
 #include "components/datetime/DateTimeController.h"
+#include <nrf_log.h>
 
 namespace Pinetime {
   namespace System {
@@ -60,6 +61,10 @@ namespace Pinetime {
 
       void SetRecurrence(RecurType recurType) {
         recurrence = recurType;
+        NRF_LOG_INFO("SetRecurrence Current state: %d", static_cast<int>(state));
+        if(state == AlarmState::Set) {
+          ScheduleAlarm();  // Ensure the alarm is rescheduled.
+        }
       }
 
     private:

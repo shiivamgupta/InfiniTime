@@ -161,7 +161,6 @@ void Alarm::OnButtonEvent(lv_obj_t* obj, lv_event_t event) {
       return;
     }
     if (obj == btnRecur) {
-      DisableAlarm();
       ToggleRecurrence();
     }
   }
@@ -185,7 +184,6 @@ bool Alarm::OnTouchEvent(Pinetime::Applications::TouchEvents event) {
 }
 
 void Alarm::OnValueChanged() {
-  DisableAlarm();
   UpdateAlarmTime();
 }
 

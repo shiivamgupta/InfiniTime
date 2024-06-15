@@ -39,12 +39,18 @@ void AlarmController::Init(System::SystemTask* systemTask) {
 }
 
 void AlarmController::SetAlarmTime(uint8_t alarmHr, uint8_t alarmMin) {
+  NRF_LOG_INFO("SetAlarmTime called! Setting time to %02d:%02d", alarmHr, alarmMin);
   hours = alarmHr;
   minutes = alarmMin;
+  NRF_LOG_INFO("SetAlarmTime Current state: %d", static_cast<int>(state));
+  if(state == AlarmState::Set) {
+    ScheduleAlarm();  // Ensure the alarm is rescheduled.
+  }
 }
 
 void AlarmController::ScheduleAlarm() {
   // Determine the next time the alarm needs to go off and set the timer
+  NRF_LOG_INFO("ScheduleAlarm called!");
   xTimerStop(alarmTimer, 0);
 
   auto now = dateTimeController.CurrentDateTime();
@@ -76,6 +82,7 @@ void AlarmController::ScheduleAlarm() {
   // now can convert back to a time_point
   alarmTime = std::chrono::system_clock::from_time_t(std::mktime(tmAlarmTime));
   auto secondsToAlarm = std::chrono::duration_cast<std::chrono::seconds>(alarmTime - now).count();
+  NRF_LOG_INFO("Alarm set for %02d:%02d. Seconds to alarm: %ld", hours, minutes, secondsToAlarm);
   xTimerChangePeriod(alarmTimer, secondsToAlarm * configTICK_RATE_HZ, 0);
   xTimerStart(alarmTimer, 0);
 
